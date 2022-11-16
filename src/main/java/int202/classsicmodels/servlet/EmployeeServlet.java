@@ -1,6 +1,6 @@
 package int202.classsicmodels.servlet;
 
-import int202.classsicmodels.models.OfficeRepo;
+import int202.classsicmodels.repo.OfficeRepo;
 import jakarta.servlet.*;
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;

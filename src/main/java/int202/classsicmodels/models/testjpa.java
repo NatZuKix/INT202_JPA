@@ -2,9 +2,7 @@ package int202.classsicmodels.models;
 
 import int202.classsicmodels.entities.Employee;
 import int202.classsicmodels.entities.Office;
-import jakarta.persistence.EntityManager;
-import jakarta.persistence.EntityManagerFactory;
-import jakarta.persistence.Persistence;
+import int202.classsicmodels.repo.OfficeRepo;
 
 import java.util.List;
 import java.util.Scanner;

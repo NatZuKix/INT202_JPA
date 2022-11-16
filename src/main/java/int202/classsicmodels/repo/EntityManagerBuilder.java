@@ -1,4 +1,4 @@
-package int202.classsicmodels.models;
+package int202.classsicmodels.repo;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;

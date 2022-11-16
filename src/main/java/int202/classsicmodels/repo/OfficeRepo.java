@@ -1,4 +1,4 @@
-package int202.classsicmodels.models;
+package int202.classsicmodels.repo;
 
 import int202.classsicmodels.entities.Office;
 import jakarta.persistence.EntityManager;
@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 
 import java.util.List;
 
-import static int202.classsicmodels.models.EntityManagerBuilder.getEntityManager;
+import static int202.classsicmodels.repo.EntityManagerBuilder.getEntityManager;
 
 @AllArgsConstructor
 @NoArgsConstructor
